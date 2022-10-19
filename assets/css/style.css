@@ -1,0 +1,33 @@
+body {
+    background-color: cornflowerblue;
+}
+.main {
+    
+}
+.main__container {
+    width: 80%;
+    max-width: 1170px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.main__form {
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid brown;
+}
+
+.form__label {
+    font-size: 20px;
+    line-height: 25px;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+.main__txt {
+    padding: 10px;
+    margin: 10px;
+}
+
