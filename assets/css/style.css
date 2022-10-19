@@ -31,3 +31,11 @@ body {
     margin: 10px;
 }
 
+.valid {
+    color: green;
+}
+
+.not-valid {
+    color: red;
+}
+
